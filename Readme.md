@@ -63,10 +63,6 @@ language:
 - zh
 size_categories:
 - 10K<n<100K
-website: {https://github.com/Ryuan0/COIG-CQIA/blob/main/Readme.md}
-github: {https://github.com/Ryuan0/COIG-CQIA/blob/main/Readme.md}
-paper: {https://github.com/Ryuan0/COIG-CQIA/blob/main/Readme.md}
-release_date: {2025-05-01}
 ---
 
 
