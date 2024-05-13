@@ -65,11 +65,7 @@ size_categories:
 - 10K<n<100K
 ---
 
-<div align="center">
-    <img src="Yi_logo.svg" width="150px" style="display: inline-block;">
-    <img src="siat-logo.jpg" width="150px" style="display: inline-block;">  
-    <img src="m-a-p.png" width="150px" style="display: inline-block;">
-</div>
+
 
 # COIG-CQIA：Quality is All you need for Chinese Instruction Fine-tuning
 
